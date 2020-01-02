@@ -1,0 +1,123 @@
+* {
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    margin:0;  
+}
+#checkboxwrapper{
+    float: left;
+    width: 200px;
+}
+#checkbox {
+    width: 100%;
+    /* margin-left: 20px; */
+    margin-top: 20px;
+    padding-left: 10px;
+    padding-top: 10px;
+   
+    border-top: 1px solid #ccc;
+    border-left: 1px solid #ccc;
+    border-bottom: 1px solid #999;
+    border-right: 1px solid #999;
+    box-shadow: 0 1px 1px #cccccc;
+}
+
+#checkbox1 {
+    width: 100%;
+    /* margin-left: 20px; */
+    padding-left: 10px;
+    padding-top: 10px;
+    
+    border-top: 1px solid #ccc;
+    border-left: 1px solid #ccc;
+    border-bottom: 1px solid #999;
+    border-right: 1px solid #999;
+    box-shadow: 0 1px 1px #cccccc;
+}
+
+.col-sm-3 label input {
+    margin-right:10px;
+ }
+
+
+#filter{
+    margin-left: 53px;
+    
+
+}
+
+input[type=button]{
+    background-color: lightgrey;
+  border: none;
+  color: black;
+  padding: 10px ;
+  font-style: bold;
+  text-decoration: none;
+  border-top: 2px solid #ccc;
+    border-left: 2px solid #ccc;
+    border-bottom: 2px solid #999;
+    border-right: 2px solid #999;
+    box-shadow: 0 2px 2px #cccccc;
+  cursor: pointer;
+}
+
+
+#chartContainer{ 
+    
+     /* margin-left: 200px;  */
+     width: 100%;
+    height: 300px;
+    border-top: 2px solid #ccc;
+    border-left: 2px solid #ccc;
+    border-bottom: 2px solid #999;
+    border-right: 2px solid #999;
+    box-shadow: 0 2px 2px #cccccc;
+
+}
+
+#chartContainer1{
+    /* margin-left: 200px; */
+    width: 100%;
+    height: 300px;
+    border-top: 2px solid #ccc;
+    border-left: 2px solid #ccc;
+    border-bottom: 2px solid #999;
+    border-right: 2px solid #999;
+    box-shadow: 0 2px 2px #cccccc;
+
+}
+
+#chartContainer2{
+    /* margin-left: 200px; */
+    width: 100%;
+    height: 300px;
+    border-top: 2px solid #ccc;
+    border-left: 2px solid #ccc;
+    border-bottom: 2px solid #999;
+    border-right: 2px solid #999;
+    box-shadow: 0 2px 2px #cccccc;
+
+}
+
+#chartContainer3{
+    /* margin-left: 200px; */
+    width: 100%;
+    height: 300px;
+    border-top: 2px solid #ccc;
+    border-left: 2px solid #ccc;
+    border-bottom: 2px solid #999;
+    border-right: 2px solid #999;
+    box-shadow: 0 2px 2px #cccccc;
+
+}
+#wrapper{
+    float: right;
+top: 20px;
+width: 100%;
+
+
+}
